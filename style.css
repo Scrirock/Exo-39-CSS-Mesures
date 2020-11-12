@@ -1,0 +1,15 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: royalblue;
+    border: 2px dashed red;
+    width: 20rem;
+    height: 20rem;
+}
